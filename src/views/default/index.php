@@ -1,1 +1,1 @@
-<?php "bu modül ext den geliyor" ?>
+<?php echo "bu modül ext den geliyor" ?>
