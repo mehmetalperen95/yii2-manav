@@ -1,0 +1,36 @@
+{
+  "name": "mehmetalperen95/yii2-manav",
+  "description": "Yii2 manav",
+  "type": "yii2-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "mehmetalperen95",
+      "email": "mehmetalperen95@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "yiisoft/yii2": "~2.0.13"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "8.*.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "mehmetalperen95\\manav\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "mehmetalperen95\\manav\\tests\\": "tests"
+    }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ]
+}
