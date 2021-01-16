@@ -42,4 +42,7 @@ migrate oluşturulmuştur.
 meyveler için tablo oluşturulmuştur.
 meyveler için controller oluşturulmuştur.
 
-tedarikciler tablosu ve ilişkilendirme işlemi eksiktir..
+firmalar için tablo oluşturulmuştur.
+firmalar için controller oluşturulmuştur.
+
+ ilişkilendirme işlemi eksiktir..
