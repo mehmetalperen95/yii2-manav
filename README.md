@@ -23,7 +23,7 @@ Github*1 a yüklenen modül pagagist*2 e tanıtılmıştır.
         ],
 
    ],
-   4. adım  “composer require mehmetalperen95/yii2-manav” kodu ile projenizin içerisine kurabilirsizin.
+   4. adım  “composer require mehmetalperen95/yii2-manav” kodu ile projenizin içerisine kurabilirsizin. not = dev-main üzerinden kurulum yapınız
 *1 https://github.com/mehmetalperen95/yii2-manav
 *2 https://packagist.org/packages/mehmetalperen95/yii2-manav
 
