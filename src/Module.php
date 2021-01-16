@@ -2,10 +2,10 @@
 
 namespace mehmetalperen95\manav;
 
-class manav extends \yii\base\manav{
+class Module extends \yii\base\Module{
 
-
-    public function init(){
+    public function init()
+    {
         parent::init();
     }
 }
