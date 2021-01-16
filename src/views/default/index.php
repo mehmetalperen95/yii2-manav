@@ -1,4 +1,6 @@
-// ilk web sayfası denemem, bir işlevi veya mantıgı yoktur.
+
+
+<?php echo "*ilk web sayfası denemem bir işlevselliği yoktur. modülde yazılmıs  meyveler ve firmalar tablolarına ulasım sağlanamamış sorun çözülememiştir. " ?>
 
 <?php echo "mehmet alperen onarır 180202083 / internet programcılıgı dersi projesi" ?>
 <html>
