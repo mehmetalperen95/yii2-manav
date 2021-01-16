@@ -41,3 +41,5 @@ vagrant ssh
 migrate oluşturulmuştur.
 meyveler için tablo oluşturulmuştur.
 meyveler için controller oluşturulmuştur.
+
+tedarikciler tablosu ve ilişkilendirme işlemi eksiktir..
